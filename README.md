@@ -8,10 +8,10 @@
 
 ## 🛠️ Tech stack
 
-**Languages:** Python · SQL · C#
-**Cloud & IaC:** AWS (S3, Lambda, Glue, Athena, Step Functions) · Terraform
-**Data:** dbt · DuckDB · Parquet · data quality testing
-**Tooling:** Git · GitHub Actions (CI/CD) · Docker · pytest
+- **Languages:** Python · SQL · C#
+- **Cloud & IaC:** AWS (S3, Lambda, Glue, Athena, Step Functions) · Terraform
+- **Data:** dbt · DuckDB · Parquet · data quality testing
+- **Tooling:** Git · GitHub Actions (CI/CD) · Docker · pytest
 
 ## 📌 Featured projects
 
