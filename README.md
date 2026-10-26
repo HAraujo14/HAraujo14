@@ -10,8 +10,9 @@
 
 - **Languages:** Python · SQL · C#
 - **Cloud & IaC:** AWS (S3, Lambda, Glue, Athena, Step Functions) · Terraform
-- **Data:** dbt · DuckDB · Parquet · data quality testing
+- **Data:** Spark · Postgres · Parquet · data quality testing
 - **Tooling:** Git · GitHub Actions (CI/CD) · Docker · pytest
+- **AI:** Codex · Claude · Copilot · Grok 
 
 ## 📌 Featured projects
 
